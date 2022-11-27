@@ -19,19 +19,27 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Catherine and François' wedding
+subtitle: "A simple yet classy theme for your Jekyll website or blog"
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Information on Catherine and François' wedding
 domain: weddingcf.com # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://weddingcf.com" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username:  jekyll
+cover: "/assets/header_image.jpg"
+logo: "/assets/logo.png"
 
 # Build settings
-theme: minima
 plugins:
-  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate-v2
+
+exclude:
+  - "/vendor/"
+
+markdown: kramdown
+inter_post_navigation: false
+highlightjs_theme: "monokai-sublime"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
