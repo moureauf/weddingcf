@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Typography
-permalink: /typography/
+title: Accomodation
+permalink: /accomodation/
 main_nav: true
 ---
 

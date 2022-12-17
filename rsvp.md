@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Posts"
-permalink: /posts/
+title: "RSVP"
+permalink: /rsvp/
 main_nav: true
 ---
 
