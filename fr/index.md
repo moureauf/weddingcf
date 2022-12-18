@@ -19,9 +19,9 @@ translation_link: /en
 <body>
   <div class="page-content">
     <p>
-      Catherine and François se marrient à Holm House, Penarth.
-      Full details of the event can be found on this site.
-      Please RSVP no later than 1 March.
+      Catherine and François se marrient à Holm House, Penarth.<br/>
+      Full details of the event can be found on this site.<br/>
+      Please RSVP no later than 1 March.<br/>
     </p>
   </div>
 </body>

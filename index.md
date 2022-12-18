@@ -18,9 +18,9 @@ translation_link: /fr
 <body>
   <div class="page-content">
     <p>
-      Catherine and François will be getting married at Holm House, Penarth.
-      Full details of the event can be found on this site.
-      Please RSVP no later than 1 March.
+      Catherine and François will be getting married at Holm House, Penarth.<br/>
+      Full details of the event can be found on this site.<br/>
+      Please RSVP no later than 1 March.<br/>
     </p>
   </div>
 </body>

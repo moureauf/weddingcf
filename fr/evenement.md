@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Evenement
+title: Événement
 permalink: /fr/evenement/
 main_nav: true
 lang: fr
