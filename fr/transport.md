@@ -1,8 +1,11 @@
 ---
 layout: page
-title: "RSVP"
-permalink: /rsvp/
+title: "Transport"
+permalink: /fr/transport/
 main_nav: true
+lang: fr
+ref: transport
+translation_link: /en/transport
 ---
 
 {% for category in site.categories %}

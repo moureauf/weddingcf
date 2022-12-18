@@ -1,6 +1,10 @@
 ---
 layout: default
+lang: en
+ref: index
+translation_link: /fr
 ---
+
 <div class="home">
 
 <div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>

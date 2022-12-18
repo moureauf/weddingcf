@@ -1,0 +1,40 @@
+menu-home:
+  en: /
+  fr: /fr
+
+menu-accomodation:
+  en:
+    title: Accomodation
+    link: /en/accomodation
+  fr:
+    title: Logement
+    link: /fr/logement
+
+menu-event:
+  en:
+    title: Event
+    link: /en/event
+  fr:
+    title: Evenement
+    link: /fr/evenement
+
+menu-rsvp:
+  en:
+    title: RSVP
+    link: /en/rsvp
+  fr:
+    title: RSVP
+    link: /fr/rsvp
+
+
+menu-transport:
+  en:
+    title: Transport
+    link: /en/transport
+  fr:
+    title: Transport
+    link: /fr/transport
+
+differentLanguage:
+  en: "Read this page in a different language"
+  fr: "Lisez cette page dans une langue différente"

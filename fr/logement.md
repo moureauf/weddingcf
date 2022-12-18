@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Accomodation
-permalink: /accomodation/
+title: Logement
+permalink: /fr/logement/
 main_nav: true
+lang: fr
+ref: accomodation
+translation_link: /en/accomodation
 ---
 
 <p>The purpose of this HTML is to help determine what default settings are with Bitters and to make sure that all possible HTML Elements are included in this HTML so as to not miss any possible Elements when designing a site.</p>

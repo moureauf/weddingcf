@@ -1,5 +1,4 @@
-{% for page in site.pages %}
-	{% if page.title and page.main_nav == true %}
-	<li class="nav-link"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-	{% endif %}
-{% endfor %}
+<li class="nav-link"><a href="{{site.baseurl}}{{site.data.snippets.menu-rsvp[page.lang].link}}">{{site.data.snippets.menu-rsvp[page.lang].title}}</a>
+<li class="nav-link"><a href="{{site.baseurl}}{{site.data.snippets.menu-event[page.lang].link}}">{{site.data.snippets.menu-event[page.lang].title}}</a>
+<li class="nav-link"><a href="{{site.baseurl}}{{site.data.snippets.menu-accomodation[page.lang].link}}">{{site.data.snippets.menu-accomodation[page.lang].title}}</a>
+<li class="nav-link"><a href="{{site.baseurl}}{{site.data.snippets.menu-transport[page.lang].link}}">{{site.data.snippets.menu-transport[page.lang].title}}</a>

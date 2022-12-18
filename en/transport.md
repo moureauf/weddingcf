@@ -1,8 +1,11 @@
 ---
 layout: page
 title: "Transport"
-permalink: /transport/
+permalink: /en/transport/
 main_nav: true
+lang: en
+ref: transport
+translation_link: /fr/transport
 ---
 
 {% for category in site.categories %}

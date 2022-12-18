@@ -1,8 +1,11 @@
 ---
 layout: page
 title: Event
-permalink: /event/
+permalink: /en/event/
 main_nav: true
+lang: en
+ref: event
+translation_link: /fr/evenement
 ---
 
 ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
