@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Catherine and François' wedding
+title: Catherine and François' Wedding
 subtitle: "22 July 2023 - Penarth, Wales"
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"

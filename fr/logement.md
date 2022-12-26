@@ -8,152 +8,46 @@ ref: accomodation
 translation_link: /en/accomodation
 ---
 
-<p>The purpose of this HTML is to help determine what default settings are with Bitters and to make sure that all possible HTML Elements are included in this HTML so as to not miss any possible Elements when designing a site.</p>
+<h1 id="penarth">Penarth</h1>
 
-<hr>
+<p>Le mariage se déroule à Penarth, peu importe où se trouve votre logement à Penarth, il est facile de s'y rendre à pied depuis le lieu de mariage.</p>
 
-<h1 id="headings">Headings</h1>
+<h2 id="hotels-penarth">Hotels</h2>
 
-<h1>h1. Heading</h1>
-<h2>h2. Heading</h2>
-<h3>h3. Heading</h3>
-<h4>h4. Heading</h4>
-<h5>h5. Heading</h5>
-<h6>h6. Heading</h6>
-
-<hr>
-
-<h1 id="paragraph">Paragraph</h1>
-
-<p>Lorem ipsum dolor sit amet, <a href="#" title="test link">test link</a> adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.</p>
-
-<p>Lorem ipsum dolor sit amet, <em>emphasis</em> consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.</p>
-
-<hr>
-
-<h1 id="list_types">List Types</h1>
-
-<p>Lists are unstyled by defualt. To restore the original styling, add the <code>.default</code> class</p>
-
-<h3>Definition List</h3>
-<dl>
-  <dt>Definition List Title</dt>
-  <dd>This is a definition list division.</dd>
-</dl>
-
-<h3>Ordered List</h3>
-<ol>
-  <li>List Item 1</li>
-  <li>List Item 2</li>
-  <li>List Item 3</li>
-</ol>
-
-<h3>Unordered List</h3>
 <ul>
-  <li>List Item 1</li>
-  <li>List Item 2</li>
-  <li>List Item 3</li>
+  <li><a class="link" href="https://beachcliff.co.uk/">Beachcliff</a></li>
+  <li><a class="link" href="https://pickfordsgalleypenarth.co.uk/">Pickford's</a></li>
+  <li><a class="link" href="https://sain-y-mor-boutique-hotel-courtyard-room-by-staybc-penarth.hotelmix.fr/?&ShowCurrency=EUR">Sain Y Mor</a></li>
+  <li><a class="link" href="http://www.glendalehotel.co.uk/">Glendale</a></li>
 </ul>
 
-<h3>Ordered List with <code>.default</code> class</h3>
-<ol class="default">
-  <li>List Item 1</li>
-  <li>List Item 2</li>
-  <li>List Item 3</li>
-</ol>
+<h2 id="airbnb-penarth">Airbnb</h2>
 
-<h3>Unordered List with <code>.default</code> class</h3>
-<ul class="default">
-  <li>List Item 1</li>
-  <li>List Item 2</li>
-  <li>List Item 3</li>
-</ul>
+<p>Un certain nombre de <a class="link" href="https://fr.airbnb.be/s/Penarth/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&price_filter_input_type=0&price_filter_num_nights=5&query=Penarth&place_id=ChIJte8yQ2EDbkgRFlgz0MCWO-o&date_picker_type=calendar&checkin=2023-07-22&checkout=2023-07-23&source=structured_search_input_header&search_type=autocomplete_click&_set_bev_on_new_domain=1672075381_ZWI4OGNhMmUyZjUw">Airbnbs</a> sont disponibles à Penarth. Cependant mieux vaut réserver assez longtemps à l'avance car il y a moins de disponibilités l'été.</p>
 
 <hr>
 
-<h1 id="form_elements">Fieldsets and Form Elements</h1>
+<h1 id="cardiff">Cardiff</h1>
 
-<fieldset>
-  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.</p>
+<p>Cardiff se trouve à une vingtaine de minutes en voiture de Penarth. De nombreux taxis et Ubers circulent entre Cardiff et Penarth.</p>
 
-  <form>
-    <h2>Form Element</h2>
+<h2 id="hotels-cardiff">Hotels</h2>
+<h3>Cardiff Bay</h3>
+<ul>
+  <li><a class="link" href="https://stdavids.vocohotels.com/">St David's</a></li>
+  <li><a class="link" href="https://www.futureinns.co.uk/cardiff/">Future Inns</a></li>
+  <li><a class="link" href="https://www.ihg.com/holidayinnexpress/hotels/fr/fr/cardiff/cdfba/hoteldetail">Holiday Inn</a></li>
+  <li><a class="link" href="https://coalexchangecardiff.co.uk/">Coal Exchange</a></li>
+</ul>
+<h3>Town Centre</h3>
+<ul>
+  <li><a class="link" href="https://www.ihg.com/holidayinn/hotels/fr/fr/cardiff/cdfcy/hoteldetail">Holiday Inn</a></li>
+  <li><a class="link" href="https://www.radissonhotels.com/fr-fr/hotels/radisson-blu-cardiff">Radisson Blu</a></li>
+  <li><a class="link" href="https://www.marriott.fr/hotels/travel/cwldt-cardiff-marriott-hotel/">Marriott</a></li>
+  <li><a class="link" href="https://www.hilton.com/en/hotels/cwlhitw-hilton-cardiff/">Hilton</a></li>
+  <li><a class="link" href="https://www.ihg.com/hotelindigo/hotels/fr/fr/cardiff/cdfin/hoteldetail">Hotel Indigo</a></li>
+</ul>
 
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.</p>
+<h2 id="airbnb-cardiff">Airbnb</h2>
 
-    <p><label for="text_field">Text Field:</label>
-      <input type="text" id="text_field" /></p>
-
-    <p><label for="text_area">Text Area:</label>
-      <textarea id="text_area"></textarea></p>
-
-    <p><label for="select_element">Select Element:</label>
-      <select name="select_element">
-        <optgroup label="Option Group 1">
-          <option value="1">Option 1</option>
-          <option value="2">Option 2</option>
-          <option value="3">Option 3</option>
-        </optgroup>
-        <optgroup label="Option Group 2">
-          <option value="1">Option 1</option>
-          <option value="2">Option 2</option>
-          <option value="3">Option 3</option>
-        </optgroup>
-    </select></p>
-
-    <p><label for="radio_buttons">Radio Buttons:</label>
-      <label>
-        <input type="radio" class="radio" name="radio_button" value="radio_1" /> Radio 1
-      </label>
-      <label>
-        <input type="radio" class="radio" name="radio_button" value="radio_2" /> Radio 2
-      </label>
-      <label>
-        <input type="radio" class="radio" name="radio_button" value="radio_3" /> Radio 3
-      </label>
-    </p>
-
-    <p><label for="checkboxes">Checkboxes:</label>
-      <label>
-        <input type="checkbox" class="checkbox" name="checkboxes" value="check_1" /> Checkbox 1
-      </label>
-      <label>
-        <input type="checkbox" class="checkbox" name="checkboxes" value="check_2" /> Checkbox 2
-      </label>
-      <label>
-        <input type="checkbox" class="checkbox" name="checkboxes" value="check_3" /> Checkbox 3
-      </label>
-    </p>
-
-    <p><label for="password">Password:</label>
-      <input type="password" class="password" name="password" />
-    </p>
-
-    <p><label for="file">File Input:</label>
-      <input type="file" class="file" name="file" />
-    </p>
-
-
-    <p><input type="submit" value="Submit" /></p>
-  </form>
-</fieldset>
-
-<hr>
-
-<h1 id="tables">Tables</h1>
-
-<table cellspacing="0" cellpadding="0">
-  <tr>
-    <th>Table Header 1</th><th>Table Header 2</th><th>Table Header 3</th>
-  </tr>
-  <tr>
-    <td>Division 1</td><td>Division 2</td><td>Division 3</td>
-  </tr>
-  <tr class="even">
-    <td>Division 1</td><td>Division 2</td><td>Division 3</td>
-  </tr>
-  <tr>
-    <td>Division 1</td><td>Division 2</td><td>Division 3</td>
-  </tr>
-</table>
-</div>
+<p>Un grand nombre de <a class="link" href="https://fr.airbnb.be/s/Cardiff/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&price_filter_input_type=0&price_filter_num_nights=1&query=Cardiff&date_picker_type=calendar&checkin=2023-07-22&checkout=2023-07-23&source=structured_search_input_header&search_type=autocomplete_click&place_id=ChIJ9VPsNNQCbkgRDmeGZdsGNBQ&_set_bev_on_new_domain=1672075381_ZWI4OGNhMmUyZjUw">Airbnbs</a> sont disponibles à Cardiff. Nous recommandons de rester dans les quartiers suivants : Cardiff Bay, Penarth Marina, Pontcana, Cathays.</p>
